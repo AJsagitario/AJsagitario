@@ -133,14 +133,14 @@ Busco integrarme a un entorno profesional donde pueda aplicar mis conocimientos,
     
 <details><summary> <h3> :open_file_folder: Mis Repositorios </h3></summary>
 <p align="center">
-    <a href="https://github.com/AJsagitario/Proyecto-BabyBliss-Maven.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJsagitario&repo=Ecommerce-Laravel-Vue&theme=tokyonight" alt="Ecommerce-Laravel-Vue" />
+    <a href="https://github.com/AJsagitario/Proyecto-BabyBliss-Maven">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJsagitario&repo=Proyecto-BabyBliss-Maven&theme=tokyonight" alt="Proyecto-BabyBliss-Maven" />
     </a>
-    <a href="https://github.com/AJsagitario/Analisis_WorldCup.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJsagitario&repo=Sistema-Ventas-Java-MySQL&theme=tokyonight" alt="Sistema-Ventas-Java-MySQL" />
+    <a href="https://github.com/AJsagitario/Analisis_WorldCup">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJsagitario&repo=Analisis_WorldCup&theme=tokyonight" alt="Analisis_WorldCup" />
     </a>
-    <a href="https://github.com/AJsagitario/Patitas_FelicesPET.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJsagitario&repo=Portafolio-Web-Lopez-Cardenas&theme=tokyonight" alt="Portafolio-Web-Lopez-Cardenas" />
+    <a href="https://github.com/AJsagitario/Patitas_FelicesPET">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJsagitario&repo=Patitas_FelicesPET&theme=tokyonight" alt="Patitas_FelicesPET" />
     </a>
     </p>
 </details>
