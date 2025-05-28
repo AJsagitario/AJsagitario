@@ -32,8 +32,8 @@ Busco integrarme a un entorno profesional donde pueda aplicar mis conocimientos,
 <p align="center">
     <a href="mailto:angellopezcardenas82@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
     <a href="https://github.com/AJsagitario"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="[Tu Link de LinkedIn]"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="[Tu Link de Spotify]"><img src="https://img.shields.io/badge/spotify-%231DB954.svg?style=plastic&logo=spotify&logoColor=white" alt="Spotify"/></a>
+    <a href="https://www.linkedin.com/in/angel-lópez-cárdenas-87b6a6249/?trk=opento_sprofile_details"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://open.spotify.com/user/316ybv35ifi7cysm3crozxwo2i2u"><img src="https://img.shields.io/badge/spotify-%231DB954.svg?style=plastic&logo=spotify&logoColor=white" alt="Spotify"/></a>
 </p>
 
 ## 🛠️ Mis Habilidades
@@ -133,13 +133,13 @@ Busco integrarme a un entorno profesional donde pueda aplicar mis conocimientos,
     
 <details><summary> <h3> :open_file_folder: Mis Repositorios </h3></summary>
 <p align="center">
-    <a href="https://github.com/AJsagitario/Ecommerce-Laravel-Vue">
+    <a href="https://github.com/AJsagitario/Proyecto-BabyBliss-Maven.git">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJsagitario&repo=Ecommerce-Laravel-Vue&theme=tokyonight" alt="Ecommerce-Laravel-Vue" />
     </a>
-    <a href="https://github.com/AJsagitario/Sistema-Ventas-Java-MySQL">
+    <a href="https://github.com/AJsagitario/Analisis_WorldCup.git">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJsagitario&repo=Sistema-Ventas-Java-MySQL&theme=tokyonight" alt="Sistema-Ventas-Java-MySQL" />
     </a>
-    <a href="https://github.com/AJsagitario/Portafolio-Web-Lopez-Cardenas">
+    <a href="https://github.com/AJsagitario/Patitas_FelicesPET.git">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJsagitario&repo=Portafolio-Web-Lopez-Cardenas&theme=tokyonight" alt="Portafolio-Web-Lopez-Cardenas" />
     </a>
     </p>
@@ -147,8 +147,3 @@ Busco integrarme a un entorno profesional donde pueda aplicar mis conocimientos,
 
 </br></br>
     
-## 🐍 Una Serpiente Comiendo mis Contribuciones
-
-<p align = "center">
-    <img src = "https://github.com/AJsagitario/AJsagitario/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
